@@ -1321,7 +1321,7 @@ h1, h2, h3, h4, h5,
 
 .breadcrumb-custom {
   font-size: 1rem !important; }
-
+.breadcrumb-custom a{color: #ffffff;}
 .text-muted {
   color: #ccc !important;
   font-size: 12px;
