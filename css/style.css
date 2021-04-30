@@ -1415,4 +1415,14 @@ h1, h2, h3, h4, h5,
   .pt-6{padding-top: 5rem;}
   .pb-6{padding-bottom: 5rem;}
 
- 
+ /* call  to  action */
+.cta {
+  background: linear-gradient(rgba(39, 42, 43, 0.1),rgba(42, 47, 48, 0.1)), url('../images/hero_bg_4.jpg');
+ padding: 70px 0;
+ margin-bottom: 70px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
