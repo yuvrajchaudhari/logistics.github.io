@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5,
       font-size: 14px; }
     .site-navbar .site-navigation .site-menu > li {
       display: inline-block;
-      padding: 10px 10px; }
+      padding: 10px 25px; }
       .site-navbar .site-navigation .site-menu > li > a {
         padding: 10px 0px;
         color: #ffffff;
@@ -579,9 +579,10 @@ h1, h2, h3, h4, h5,
       .site-blocks-cover h1 {
         font-size: 2rem; } }
   .site-blocks-cover p {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 1);
     font-size: 1.2rem;
-    line-height: 1.5; }
+    line-height: 1.5;
+    font-weight: 500;}
   .site-blocks-cover .btn {
     border: 2px solid transparent; }
     .site-blocks-cover .btn:hover {
