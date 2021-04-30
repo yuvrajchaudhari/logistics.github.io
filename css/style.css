@@ -209,7 +209,8 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       z-index: 0;
       width: 100%;
-      background: rgba(0, 0, 0, 0.7); }
+      /* background: rgba(0, 0, 0, 0.7); */
+     }
   .bg-image > .container {
     position: relative;
     z-index: 1; }
@@ -1227,7 +1228,7 @@ h1, h2, h3, h4, h5,
   margin-top: -100px; }
 
 .feature-1, .free-quote, .feature-3 {
-  background: #1e5a89;
+  background: #1a598f;
   padding: 30px 50px;
   color: rgba(255, 255, 255,1);
   font-size: 15px; }
