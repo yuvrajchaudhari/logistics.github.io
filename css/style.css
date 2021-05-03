@@ -566,8 +566,8 @@ h1, h2, h3, h4, h5,
     min-height: 600px;
     height: calc(100vh); }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover .row {
-    min-height: 331px;
-    height: calc(30vh); }
+    min-height: 331;
+    height: calc(50vh); }
   .site-blocks-cover h1 {
     font-size: 3.3rem;
     font-weight: 900;
