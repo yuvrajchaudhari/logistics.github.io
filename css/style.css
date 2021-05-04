@@ -1226,7 +1226,7 @@ h1, h2, h3, h4, h5,
 
   @media (max-width:768px){
     .site-blocks-cover, .site-blocks-cover .row {
-      min-height: 485px;
+      min-height: 485px !important;
       height: calc(70vh);
   }
     .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover .row {
