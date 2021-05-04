@@ -1202,7 +1202,7 @@ h1, h2, h3, h4, h5,
 .overlap-section {
   margin-top: -150px;
   position: relative;
-  z-index: 2; }
+  z-index: 1; }
 
 .unit-4 .unit-4-icon span {
   line-height: 0;
