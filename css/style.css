@@ -275,7 +275,9 @@ h1, h2, h3, h4, h5,
   margin-bottom: 0px;
   z-index: 1999;
   position: absolute;
-  width: 100%;}
+  width: 100%;
+  background-color: rgba(255,255,255,0.5);
+}
   .site-navbar.transparent {
     background: transparent; }
   .site-navbar.absolute {
@@ -305,7 +307,7 @@ h1, h2, h3, h4, h5,
       padding: 10px 25px; }
       .site-navbar .site-navigation .site-menu > li > a {
         padding: 10px 0px;
-        color: #ffffff;
+        color: #5b4d4d;
         font-weight: 600;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
